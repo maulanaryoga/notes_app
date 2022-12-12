@@ -84,6 +84,7 @@ export default function Home({navigation}){
                 <TouchableHighlight 
                 style={{
                     paddingBottom: 35,
+                    paddingLeft: 30
                 }}
                 onPress={logout}>
                     <Text style={{
